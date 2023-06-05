@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alejandro Lizárraga 🤓</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Lizárraga</h1>
 <h3 align="center">A Front-end Web Developer</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alejandrolizarraga.netlify.app/](https://portfolio-alejandrolizarraga.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-alejandrolizarraga.netlify.app/)
 
 - 📫 You can contact me on **alejandroivanliza@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1To8S5YZsohy_ZXvkDEJ1ywLI0unwlmKO/view?usp=sharing](https://drive.google.com/file/d/1To8S5YZsohy_ZXvkDEJ1ywLI0unwlmKO/view?usp=sharing)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1To8S5YZsohy_ZXvkDEJ1ywLI0unwlmKO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
